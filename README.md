@@ -3,9 +3,11 @@ A simple REST API built in PHP that provides CRUD (Create, Read, Update, Delete)
 
 ## Overview
 This REST API demonstrates a basic backend architecture using PHP.
+
 It handles **Create**, **Read**, **Update**, **Delete** operations and returns responses in JSON format.
 
 Example use case:
+
 `Managing users, products or tasks in a lightweight PHP environment without external frameworks.`
 
 ## Requirements
@@ -38,6 +40,7 @@ CREATE TABLE product (
 ```
 
 **4.** Configure your environment file:
+
 Rename the `.env.example` to `.env` in the project root. Then modify the variables to match your database credentials
 
 **5.** Start your PHP built-in server:
@@ -46,6 +49,7 @@ php -S localhost:8000
 ```
 
 **6.** API is now available at:
+
 http://localhost:8000
 
 ## API Endpoints
