@@ -127,4 +127,5 @@ MIT License - free to use and modify.
 
 ## Author
 [Julian Radix](https://github.com/JulianRadix)
+
 *Crowware Co-Owner & General Manager*
