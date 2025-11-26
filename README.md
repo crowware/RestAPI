@@ -86,7 +86,7 @@ curl -X POST http://localhost:8000/products \
 curl -X DELETE http://localhost:8000/products/1
 ```
 
-**GET all products**
+**UPDATE a products**
 ```bash
 curl -X PATCH http://localhost:8000/products/1
 -H "Content-Type: application/json" \
@@ -128,4 +128,4 @@ MIT License - free to use and modify.
 ## Author
 [Julian Radix](https://github.com/JulianRadix)
 
-*Crowware Co-Owner & General Manager*
+*Crowware Co-Founder*
